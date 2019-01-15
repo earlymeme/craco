@@ -1,5 +1,5 @@
 {
-    "name": "@craco/craco",
+    "name": "craco-up",
     "description": "Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app v2.",
     "scripts": {},
     "publishConfig": {
