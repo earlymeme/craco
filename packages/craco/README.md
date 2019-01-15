@@ -1,4 +1,4 @@
-# This repo will deprecated unless the author merged the pr.
+# This repo will be deprecated unless the author merged the pr.
 
 # craco [![Build Status](https://travis-ci.org/sharegate/craco.svg?branch=master)](https://travis-ci.org/sharegate/craco) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/sharegate/craco/pulls)
 
